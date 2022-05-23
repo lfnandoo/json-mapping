@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "lfnandoo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfnandoo/json-mapping"
+  },
+  "bugs": {
+    "url": "https://github.com/lfnandoo/json-mapping/issues"
+  },
+  "homepage": "https://github.com/lfnandoo/json-mapping#readme",
+  "author": "https://github.com/lfnandoolfnandoo",
   "license": "MIT"
 }
