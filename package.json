@@ -1,10 +1,13 @@
 {
-  "name": "json-mapping",
+  "name": "json-mapping-js",
   "version": "1.0.0",
   "description": "A javascript library to map JSON objects.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@emanuelmassafera"
   },
   "repository": {
     "type": "git",
@@ -14,6 +17,6 @@
     "url": "https://github.com/lfnandoo/json-mapping/issues"
   },
   "homepage": "https://github.com/lfnandoo/json-mapping#readme",
-  "author": "https://github.com/lfnandoolfnandoo",
+  "author": "Luiz Fernando",
   "license": "MIT"
 }
